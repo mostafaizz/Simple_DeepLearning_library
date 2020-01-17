@@ -1,0 +1,8 @@
+Magic = 2049
+Train Labels = 60000
+Magic = 2049
+Test Labels = 10000
+Images File Magic = 2051
+Train Images = 60000
+Images File Magic = 2051
+Test Images = 10000
